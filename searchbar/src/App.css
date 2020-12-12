@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.App input{
+  margin-top: 20px;
+  width: 350px;
+  height: 40px;
+  font-size: 20px;
+  padding-left: 10px;
+}
+p{
+  font-size:10px;
+}
